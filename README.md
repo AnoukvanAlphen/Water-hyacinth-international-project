@@ -1,4 +1,3 @@
-# MPT2
 ## Docker
 
 Before we start make sure you have installed docker desktop and it needs to be running.  
